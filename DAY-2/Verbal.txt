@@ -1,0 +1,20 @@
+
+                        BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+1. What technologies are influencing software development?
+    >>Cloud computing and Artificial Intelligence (AI) are influencing software development.
+2. Why are scalable systems important?
+    >>Scalable systems are important because they can handle millions of users simultaneously without performance issues.
+3. What does "scalable" mean in software systems?
+    >>Scalable means a system can increase its capacity and performance to handle more users, data, or workload efficiently.
+
+Grammar Correction
+
+1. He don't like programming.
+    >>He doesn't like programming.
+2. She have submitted the assignment.
+    >>She has submitted the assignment.
+3. They was discussing the project.
+    >>They were discussing the project.

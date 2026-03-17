@@ -1,0 +1,10 @@
+                                        BLOCK 3 – COMMUNICATION PRACTICE
+
+Good morning, I would like to explain my final year project.
+My project title is “Internship and Placement Portal.” The main aim of this project is to help students easily find internships and job opportunities in one place. It also helps recruiters to post jobs and manage student applications.
+We used MERN stack technologies like MongoDB, Express.js, React.js, and Node.js. We also used Bootstrap and Tailwind CSS for designing the user interface.
+My role in this project was working on the student module. I developed features like student login, viewing available jobs and internships, and applying for them.
+One of the main challenges we faced was handling user authentication and managing data properly. We solved it by using proper backend logic and APIs.
+This project helped me improve my full-stack development skills and gave me real-time experience.
+Thank you.
+
