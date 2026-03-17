@@ -11,6 +11,13 @@ class secmax
             arr[i]=sc.nextInt();
         }
         Arrays.sort(arr);
-        System.out.print(arr[arr.length-2]);
+        int max=arr[n-1];
+        for(int i=n-2;i>=0;i--){
+            if(arr[i]!=max)
+            {
+                System.out.print(arr[i]);
+                return;
+            }
+        }
     }
 }
