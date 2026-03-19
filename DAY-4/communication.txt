@@ -1,0 +1,24 @@
+                                    BLOCK 3 – COMMUNICATION 
+
+                                         Arrays
+
+An Arrays are basically a way to store multiple values in one single variable. Instead of creating many separate variables, we can use an array to keep everything together in an organized way.
+Each value in the array has a position called an index, and it usually starts from 0. Because of this, we can easily access any value using its index number.
+In simple words, an array is like a list where we can quickly find any item.
+
+Real-Life Example
+
+For example, think about a classroom. If a teacher wants to store marks of 50 students, creating 50 different variables is not practical.
+So instead, we use an array.
+Like:
+marks[0], marks[1], marks[2] … up to marks[49]
+Here, each position represents a student, and the value is their mark.
+
+Use Case
+
+Arrays are used in many real applications.
+For example:
+In college, we store marks or roll numbers
+In games, we store scores or player positions
+In websites or apps, we store lists like users, products, or messages
+Arrays are very useful because they make data easy to manage and access quickly. Also, they are the basic building block for other data structures.

@@ -1,0 +1,23 @@
+                                    BLOCK 2 – VERBAL ABILITY 
+                                    
+    Reading Passage
+
+1. Why are optimized systems important?
+    >>Optimized systems are important because they improve efficiency, reduce resource usage, and ensure faster performance, especially in large-scale applications.
+
+2. What does scalability mean in real-world applications?
+    >>Scalability means a system’s ability to handle increasing workloads, users, or data without affecting performance.
+
+3. Name companies that depend on scalable systems.
+    >>Companies like Amazon and Google depend heavily on scalable systems.
+
+    Grammar Correction
+
+1.He didn’t knew the answer.
+    >>He didn’t know the answer.
+
+2.She is more smarter than him.
+    >>She is smarter than him.
+
+3.They has completed the task.
+    >>They have completed the task.
