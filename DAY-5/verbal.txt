@@ -1,0 +1,21 @@
+                            Reading Passage Answers
+                            
+1. Why are algorithms important?
+    >>Algorithms are important because they help solve problems efficiently. They optimize system performance by reducing execution time and minimizing the use of resources like memory and processing power.
+
+2. What happens if inefficient algorithms are used?
+    >>If inefficient algorithms are used, the system becomes slow and consumes more resources. This can lead to poor performance, increased costs, and a bad user experience.
+
+3. What is optimization in computing?
+    >>Optimization in computing means improving the efficiency of a program or system by reducing time complexity and resource usage while maintaining correct output.
+
+Grammar Correction
+
+1.He have been working here since 2 years.
+    >>He has been working here for 2 years.
+
+2.She did not wrote the code.
+>>She did not write the code.
+
+3.They is preparing for interviews.
+    >>They are preparing for interviews.
