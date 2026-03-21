@@ -1,0 +1,19 @@
+                                            BLOCK 2 – VERBAL ABILITY
+
+1. Why are databases important in modern applications?
+    >>Databases are important because they store, manage, and retrieve data efficiently, which helps applications run smoothly and handle large amounts of data.
+
+2. What does data consistency mean?
+    >>Data consistency means that the data remains accurate, reliable, and the same across the database without errors or conflicts.
+
+3. Why do companies need well-designed databases?
+    >>Companies need well-designed databases to improve performance, ensure data accuracy, and support scalable and efficient software systems.
+
+Grammar Correction
+
+1.She do not understand SQL joins.
+    >>She does not understand SQL joins.
+2.He were explaining the database schema.
+    >>He was explaining the database schema.
+3. They has written the program successfully.
+    >>They have written the program successfully.
