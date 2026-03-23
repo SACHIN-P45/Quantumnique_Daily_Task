@@ -1,0 +1,18 @@
+                                        Reading Passage
+
+1. What is the main role of an operating system?
+    >>The main role of an operating system is to manage hardware resources and provide services for computer programs. It acts as an interface between the user and the hardware.
+2. Why is memory management important?
+    >>Memory management is important because it ensures efficient use of memory, prevents conflicts between programs, and improves overall system performance.
+3. What is process scheduling?
+    >>Process scheduling is the method used by the operating system to decide which process runs at what time, ensuring efficient CPU utilization and smooth multitasking.
+
+Grammar Correction
+1. He don’t know operating systems.
+    >>He doesn’t know operating systems.
+
+2.She were learning data structures.
+    >>She was learning data structures.
+
+3.They has solved the problem.
+    >>They have solved the problem.

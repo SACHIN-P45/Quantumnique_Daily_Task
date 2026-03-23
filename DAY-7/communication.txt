@@ -1,0 +1,10 @@
+                                        Block-3 Communication
+
+                                        How the Internet Works
+
+When you type a website name, like google.com, into your browser, your computer doesn’t actually understand names. It only knows numbers, called IP addresses.
+So first, your computer asks a special system called DNS, which is like a phonebook of the Internet. DNS tells your computer the correct IP address for the website.
+Next, your browser sends a request to the server where the website lives. Think of the server as a big computer that stores all the website’s files – like text, images, and videos.
+The server receives your request, finds the files, and sends them back to your browser. This is called the response.
+Finally, your browser takes those files and shows the website on your screen. All of this happens in just a few milliseconds, so it looks almost instant!
+In short, when you type a website: DNS finds the address → browser talks to server → server sends files → browser shows the website.
