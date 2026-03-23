@@ -5,13 +5,13 @@ class Node
     Node next;
     Node(int value)
     {
-        this.value=data;
+        this.data=value;
         this.next=null;
     }
 }
 class Solution
 {
-    Node middlelNode(Node head)
+    Node middleNode(Node head)
     {
         Node slow=head;
         Node fast=head;
@@ -32,7 +32,7 @@ class middle
         for(int i=0;i<n;i++)
         {
             int val=sc.nextInt();
-            Node newNode=new node(val);
+            Node newNode=new Node(val);
             if(head==null)
             {
                 head=tail=newNode;
@@ -44,7 +44,7 @@ class middle
             }
         }
         Solution obj=new Solution();
-        head=odj.middleNode(head);
+        head=obj.middleNode(head);
         System.out.println(head.data);
     }
 
