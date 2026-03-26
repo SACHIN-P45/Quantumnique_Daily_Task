@@ -1,0 +1,14 @@
+                                            BLOCK 3 – COMMUNICATION PRACTICE
+
+What Happens When You Run a Program 
+
+When we run a program, the computer does a few steps to give us the result.
+First is compilation or interpretation.
+The code we write is in a human-readable form. The computer cannot understand it directly. So, it converts the code into a language the computer understands.
+In some languages like Java, the code is compiled first. In others like Python, it is interpreted line by line.
+Next is memory allocation.
+The computer gives some space in memory (RAM) to run the program. All variables and data are stored in this memory while the program runs.
+Then comes execution.
+The CPU starts running the program step by step. It follows the instructions, does calculations, checks conditions, and runs loops.
+Finally, we get the output.
+After finishing all steps, the program gives the result. This result can be shown on the screen or saved somewhere.

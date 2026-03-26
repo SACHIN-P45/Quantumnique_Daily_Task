@@ -1,0 +1,25 @@
+                                    BLOCK 2 – VERBAL ABILITY
+
+
+Reading Passage
+
+1. What is an algorithm?
+    >>An algorithm is a step-by-step procedure used to solve a problem efficiently.
+
+2. Why are efficient algorithms important?
+    >>Efficient algorithms are important because they improve performance in software development and make programs faster and more effective.
+
+3. What do algorithms help reduce?
+    >>Algorithms help reduce:
+
+
+Grammar Correction
+
+1.She don’t like programming.
+    >>She doesn’t like programming.
+
+2.He have written the code.
+    >>He has written the code.
+
+3.They is working on algorithms.
+    >>They are working on algorithms.
