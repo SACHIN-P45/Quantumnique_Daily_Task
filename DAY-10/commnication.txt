@@ -1,0 +1,11 @@
+                                        BLOCK 3 – COMMUNICATION PRACTICE
+
+                                            Binary Search algorithm
+
+Imagine you're looking for a name in a phone book. If you went page by page from the beginning, it would take forever, right? That's like linear search—checking everything one by one.
+But here's what you'd actually do: you'd open the phone book somewhere in the middle. If the name you're looking for comes before that page alphabetically, you'd ignore the second half and focus on the first half. Then you'd open the middle of that first half and repeat. You keep cutting the search area in half until you find what you're looking for. That's Binary Search!
+For this to work, one important thing: the data has to be sorted. Just like the phone book is alphabetically organized, your array needs to be sorted from smallest to largest. Without that, the whole trick falls apart.
+So what's actually happening? You pick the middle element and compare it to what you're searching for. If it matches, you're done. If your target is smaller, you know it's on the left side, so you ignore the right half. If it's bigger, you ignore the left half. Then you repeat this process with the remaining half.
+Each time you check the middle element, you cut your search space in half. This is incredibly powerful. If you have a million items, you'd need maybe 20 checks instead of a million checks!
+This is why Binary Search is so fast. Its time complexity is O(log n)—that means even with a huge amount of data, it stays super quick. Compare that to checking every single item one by one, which is O(n)—way slower.
+That's Binary Search! It's like a smart guessing game where you always eliminate half your options with each guess.

@@ -1,0 +1,17 @@
+                                    BLOCK 2 – VERBAL ABILITY
+
+Reading Passage Questions
+1. Where does binary search work? 
+    >>Binary search works on sorted arrays.
+2. How does binary search reduce search space? 
+    >>Binary search reduces search space by repeatedly dividing the search interval into half.
+3. Is binary search faster than linear search? 
+    >>Yes, binary search is faster than linear search. Binary search has O(log n) time complexity, while linear search has O(n) time complexity, making binary search significantly more efficient for large datasets.
+
+Grammar Correction
+1. He don't know binary search.
+    >>He doesn't know binary search.
+2. She have completed the task.
+    >>She has completed the task.
+3. They is learning algorithms.
+    >>They are learning algorithms.
